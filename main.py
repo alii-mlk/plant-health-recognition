@@ -46,7 +46,7 @@ if predicted_severity < 25:
 elif predicted_severity < 50:
     category = "Minor"
 elif predicted_severity < 75:
-    category = "Moderate"
+    category = "Medium"
 else:
     category = "Serious"
 

@@ -8,7 +8,7 @@ from segmentation.auto_threshold import auto_segment_lesions
 from features.extract_features import extract_features
 
 # -------- CONFIG --------
-image_path = "data/unseen_leaf3.jpg"  # <-- put your test image here
+image_path = "prediction/input/unseen_leaf3.jpg"  # <-- put your test image here
 model_path = "models/leaf_severity_model.pkl"
 
 print("[INFO] Loading input image...")

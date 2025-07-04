@@ -3,3 +3,7 @@ numpy
 matplotlib
 scikit-image
 scipy
+pandas
+scikit-learn
+joblib
+imageio
